@@ -1,0 +1,4 @@
+﻿  lab 5 saod.cpp
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\lab 5\lab 5 saod\lab 5 saod\lab 5 saod.cpp(44,15): warning C4101: h: неиспользованная локальная переменная
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\lab 5\lab 5 saod\lab 5 saod\lab 5 saod.cpp(68,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab 5 saod.vcxproj -> C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\САОД\lab 5\lab 5 saod\Debug\lab 5 saod.exe
